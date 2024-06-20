@@ -36,7 +36,7 @@ fr:
     footer:
       conditions: Informations légales
       description: Ce portail utilise %{consul}, %{open_source} de "Madrid ouvert sur le monde".
-      participation_text: Construisez La Roque d'Anthéron dans laquelle vous souhaitez vivre
+      participation_text: Construisez La Roque d'Anthéron où vous souhaitez vivre
       privacy: Confidentialité
     header:
       poll_questions: Scrutins
