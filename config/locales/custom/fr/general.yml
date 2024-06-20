@@ -5,4 +5,6 @@ fr:
       save_changes_submit: Sauvegarder les modifications
       user_permission_title: Participation
       user_permission_verify: Pour effectuer toutes les actions, vérifiez votre compte.
+  application:
+      confirm_delete: "Êtes-vous sûr ? Cette action supprimera ce commentaire. Vous ne pourrez pas annuler cette action."
 
