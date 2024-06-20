@@ -7,7 +7,9 @@ fr:
       user_permission_verify: Pour effectuer toutes les actions, vérifiez votre compte.
   application:
       confirm_delete: "Êtes-vous sûr ? Cette action supprimera ce commentaire. Vous ne pourrez pas annuler cette action."
+  comments:
     comment:
+      responses:
       responses_collapse:
         other: "%{count} réponses (masquer)"
 
